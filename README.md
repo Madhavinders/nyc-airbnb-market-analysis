@@ -8,4 +8,4 @@ https://public.tableau.com/app/profile/madhav.inder.singh/viz/NYCAirbnbMarketAna
 MySQL (data cleaning + analysis)
 Tableau (dashboard visualisation)
 # SQL Script
-Uploaded as 'nyc_airbnb_analysis.sql
+Uploaded as 'nyc_airbnb_analysis.sql'
